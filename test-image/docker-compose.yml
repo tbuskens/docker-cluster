@@ -1,0 +1,4 @@
+version: "3"
+services:
+  md5sum:
+    image: twizzel/clustermd5sum:latest

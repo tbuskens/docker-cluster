@@ -1,0 +1,4 @@
+version: "3"
+services:
+  md5sum-loop:
+    image: twizzel/md5sum-loop:latest
